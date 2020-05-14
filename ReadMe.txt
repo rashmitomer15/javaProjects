@@ -1,0 +1,1 @@
+3 microservices with eureka with service discovery server.
